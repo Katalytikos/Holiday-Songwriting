@@ -39,3 +39,24 @@ What becomes possible because these two things meet?
 - Legs + hill; coffee + milk; food + wine
 - Lizard + roof; swing + shade
 - The delta synapse — neurological geography?
+- AI as a philosophical catalyst — synthesis; synthetic philosophy
+- Basilica bells ringing from the hilled town centre across the valley towards travellers from home meeting as friends around the pool — roast chicken, wine, beers, play, splashes, sun, music from a site radio, leaves rustling in the warm breeze
+- We float above the cool blue surface of our lives in which light reflects and refracts — travelling through us, oblivious of the passage of time in its infinite arc across the universe, as we meet, eat, drink and talk
+- Child and adult sketching in chalk
+- The pool and the ball
+
+![[image.jpg]]
+
+### Metabolism
+- A slower day — sitting in the slow flow of conversations and children playing in the pool
+
+## From Diary — 2026-07-19
+
+- Surprised by cleanliness of the pool; hammock; breeze mid-morning
+- Image that refuses to leave: the light playing in the pool
+- Bells from the basilica
+- Pétanque — although we’ve not played it yet
+
+## From Diary — 2026-07-20
+
+- Image that refuses to leave: light in the pool and contrasts with the stone
