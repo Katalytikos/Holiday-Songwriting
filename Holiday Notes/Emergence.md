@@ -11,7 +11,9 @@ Light emerging from shadows
 Sleep emerging from tiredness
 Food emerging from the land
 Emerged fuzzy from an evening of wine
-
+Meals emerging from leftovers
+Words emerging from thoughts
+Images emerging from entangled Chalk drawings
 
 
 

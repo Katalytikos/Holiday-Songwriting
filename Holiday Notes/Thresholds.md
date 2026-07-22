@@ -18,4 +18,4 @@ Night awaits the blue hour
 ![[IMG_4571.jpeg]]
 Day ends darkness descends the blue hour holds the warmth unfolds. 
 (Transition?)
-Silhouettes shape night awakes the blue hour holds the days memories (of old)
+Silhouettes shape night awakes the blue hour holds with memories old
