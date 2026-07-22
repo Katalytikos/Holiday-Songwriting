@@ -23,3 +23,5 @@ Evening - night liminality
 - Don’t write — just notice transitions
 - Themes live inside transitions, not conclusions
 - The pool as liminal studio: neither land nor sea; public yet private; controlled nature; mirrors that distort; voices sounding different
+
+![[image 1.jpg]]

@@ -8,3 +8,4 @@ An afternoon asleep - regeneration in the sun’s heat.
 
 Fighting entropy
 
+The house processing the conversations among friends, creating history embedded in the stone walls, merging with the sounds heard and remembered through four centuries - Latin and Germanic words mingling.

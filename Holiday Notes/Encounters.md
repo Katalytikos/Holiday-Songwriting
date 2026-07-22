@@ -28,3 +28,6 @@ The delta synapse - neurological geography.?
 AI as a philosophical catalyst - synthesis. Synthetic philosophy 
 ![[image.jpg]]
 the sound of the basilica bells ringing from the hilled town centre across the valley towards Travellers from home meeting as friends around the pool - roast chicken, wine, beers, play, splashes, sun, music from a site radio, leaves rustling in the warm breeze. We float above the cool blue surface of our lives in which light reflects and refracts - travelling through us oblivious of the passage of time in its infinite arc across the universe as we meet, eat, drink and talk.
+
+Child and adult sketching in chalk
+The pool and the ball
