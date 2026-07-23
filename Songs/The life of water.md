@@ -1,3 +1,6 @@
+---
+aliases:
+---
 The morning - midday - encounters
 
 ## From Holiday Notes — 2026-07-22
@@ -45,7 +48,7 @@ What becomes possible because these two things meet?
 - Child and adult sketching in chalk
 - The pool and the ball
 
-![[image.jpg]]
+![[image 2.jpg]]
 
 ### Metabolism
 - A slower day — sitting in the slow flow of conversations and children playing in the pool
