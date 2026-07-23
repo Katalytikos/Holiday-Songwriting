@@ -17,6 +17,14 @@ The morning - midday - encounters
 - Submerging in the still water of the pool
 - Otis and Griffo getting up
 
+## From Holiday Notes — 2026-07-23
+
+### Transitions
+- Walking from street to street through Angoulême, crossing multiple thresholds in history
+- The passage of time and space present in the stone buildings and narrow streets
+
+![[IMG_4578.jpeg]]
+
 ### Thresholds
 - Pool surface as threshold
 - The edge of the pool
@@ -63,3 +71,16 @@ What becomes possible because these two things meet?
 ## From Diary — 2026-07-20
 
 - Image that refuses to leave: light in the pool and contrasts with the stone
+
+## From Diary — 2026-07-22
+
+- Drawing on the chalkboard
+- Joseph the storyteller — creating stories for Otis and reading stories to Nancy
+- Image that refuses to leave: the flow of the water
+
+## From Diary — 2026-07-23
+
+- Meeting old friends; sharing tales of the mountains — Skye and Anach Eagagh ridge, Tryfan and the peaks of the English lakes
+- Paella and good wine & company
+- A new friend from an old acquaintance — exchange of memorabilia from times shared together 40 years ago
+- Enter the flow (with food, wine, humour, friendship, sunshine, music, sport, water, air and light)

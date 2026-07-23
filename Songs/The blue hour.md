@@ -33,3 +33,15 @@ Evening - night liminality
 - The blue hour holds the liminal space between day and night
 - Starting to relax — relationship with the holiday changing
 - Images that refuse to leave: fighting entropy; age and injury; heat, sun absorption
+
+## From Holiday Notes — 2026-07-23
+
+### Transitions
+- Walking Angoulême street to street — thresholds in history held in stone and narrow streets
+- Passage of time and space as evening material
+
+## From Diary — 2026-07-23
+
+- Sharing mountain tales into the evening — Skye, Anach Eagagh, Tryfan, the lakes
+- Memorabilia from times shared 40 years ago — old acquaintance becoming new friend
+- Loosen the grip; enter the flow
