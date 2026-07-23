@@ -17,14 +17,6 @@ The morning - midday - encounters
 - Submerging in the still water of the pool
 - Otis and Griffo getting up
 
-## From Holiday Notes — 2026-07-23
-
-### Transitions
-- Walking from street to street through Angoulême, crossing multiple thresholds in history
-- The passage of time and space present in the stone buildings and narrow streets
-
-![[IMG_4578.jpeg]]
-
 ### Thresholds
 - Pool surface as threshold
 - The edge of the pool
@@ -60,6 +52,14 @@ What becomes possible because these two things meet?
 
 ### Metabolism
 - A slower day — sitting in the slow flow of conversations and children playing in the pool
+
+## From Holiday Notes — 2026-07-23
+
+### Transitions
+- Walking from street to street through Angoulême, crossing multiple thresholds in history
+- The passage of time and space present in the stone buildings and narrow streets
+
+![[IMG_4578.jpeg]]
 
 ## From Diary — 2026-07-19
 
