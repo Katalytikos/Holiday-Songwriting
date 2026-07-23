@@ -39,3 +39,8 @@ Midday - evening - energy
 
 - Heat, sun absorption
 - Age and injury alongside the day’s energy
+
+## From Diary — 2026-07-23
+
+- Gathering and metabolising energy in food, wine, humour, friendship, sunshine, music, sport, water, air and light
+- Paella and good wine & company under the day’s sun

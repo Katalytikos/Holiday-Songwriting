@@ -47,3 +47,15 @@ Early morning - metabolism / emergence
 - Image that refuses to leave: fighting entropy
 - Age and injury; hamstring still unresolved
 - Starting to relax — relationship with the holiday changing
+
+## From Diary — 2026-07-22
+
+- Drawing on the chalkboard
+- Images emerging from entangled chalk (echo)
+
+## From Diary — 2026-07-23
+
+- My old friend’s new knee — 3D printed, replacing the one worn by skiing and fell running
+- Slowly healing hamstring, now bruised and aching
+- Image that refuses to leave: we are all fighting the onslaught of entropy — gathering and metabolising energy in food, wine, humour, friendship, sunshine, music, sport, water, air and light
+- Loosen the grip; enter the flow
