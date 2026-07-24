@@ -1,5 +1,6 @@
 
 
+
 Sleep
 Wake
 Shower
@@ -15,3 +16,5 @@ Otis and Griffo getting up
 
 Walking from street to street through Angouleme crossing multiple thresholds in history. The passage of time and space present in the stone buildings and narrow streets.
 ![[IMG_4578.jpeg]]
+
+Woken up with the tune to “I don’t live here anymore” by war on drugs in my head. “We danced to desolation row” - a reference to a reference.

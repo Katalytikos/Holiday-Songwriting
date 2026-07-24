@@ -31,3 +31,7 @@ the sound of the basilica bells ringing from the hilled town centre across the v
 
 Child and adult sketching in chalk
 The pool and the ball
+
+Days of climbing in the Cotswolds and Wye Valley inspired by the gritstone gods and slate-punks of the 80s, memories brought back
+
+![[IMG_4579.jpeg]]
