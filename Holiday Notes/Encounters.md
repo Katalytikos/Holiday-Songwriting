@@ -35,3 +35,8 @@ The pool and the ball
 Days of climbing in the Cotswolds and Wye Valley inspired by the gritstone gods and slate-punks of the 80s, memories brought back
 
 ![[IMG_4579.jpeg]]
+
+Head hands hips and feet
+Are compelled to move with the beat
+Rhythms ring from African drums
+In the warm air the city hums

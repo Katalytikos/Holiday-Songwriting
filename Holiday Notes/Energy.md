@@ -18,3 +18,4 @@ Shades - light can enter but not heat
 
 Roast perigeaux chicken and white Bordeaux wine
 
+Energy builds in the heat - lightning explodes across the smoke drenched city. Sparks to the west lighting great fires where the land meets the sea. Warm breezes fan the flames and drive the smoke over fields and towns to the hilled town with its basilica and bells. We await further news
