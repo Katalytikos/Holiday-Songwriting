@@ -44,3 +44,15 @@ Midday - evening - energy
 
 - Gathering and metabolising energy in food, wine, humour, friendship, sunshine, music, sport, water, air and light
 - Paella and good wine & company under the day’s sun
+
+## From Holiday Notes — 2026-07-24
+
+### House as living process
+- The home stretches in the midday sun; food eaten and rest won
+- The hammock brings peace amidst the sparrow’s song
+- The home rests in the beating sun
+- Bodies stretched between the day’s hours that pass
+- As the pool brings cool at last
+
+### The pool
+- The sun reflecting on / through water; ripples

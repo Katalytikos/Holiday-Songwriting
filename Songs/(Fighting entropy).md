@@ -59,3 +59,14 @@ Early morning - metabolism / emergence
 - Slowly healing hamstring, now bruised and aching
 - Image that refuses to leave: we are all fighting the onslaught of entropy — gathering and metabolising energy in food, wine, humour, friendship, sunshine, music, sport, water, air and light
 - Loosen the grip; enter the flow
+
+## From Holiday Notes — 2026-07-24
+
+### House as living process
+- The home stretches in the midday sun; food eaten and rest won
+- The hammock brings peace amidst the sparrow’s song; the home rests in the beating sun
+- The walls watch the drying grass; water warms in the glass
+- Bodies stretched between the day’s hours that pass — as the pool brings cool at last
+- The chalkboard records the coming and going of ideas as the house catalyses words, images & ideas
+
+![[IMG_4580.jpeg]]

@@ -84,3 +84,21 @@ What becomes possible because these two things meet?
 - Paella and good wine & company
 - A new friend from an old acquaintance — exchange of memorabilia from times shared together 40 years ago
 - Enter the flow (with food, wine, humour, friendship, sunshine, music, sport, water, air and light)
+
+## From Holiday Notes — 2026-07-24
+
+### The pool
+- Emersion in the pool
+- The healing power of water
+- Flowing across the skin
+- The sun reflecting
+- Ripples
+
+### House as living process
+- As the pool brings cool at last
+- Water warms in the glass
+
+### Encounters
+- Days of climbing in the Cotswolds and Wye Valley — inspired by the gritstone gods and slate-punks of the 80s; memories brought back
+
+![[IMG_4579.jpeg]]

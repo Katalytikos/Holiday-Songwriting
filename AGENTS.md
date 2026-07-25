@@ -15,11 +15,14 @@ An observation may belong to more than one song; append it wherever it fits. Do 
 
 ## End-of-day sync
 
-At the end of each day (or whenever asked to sync):
+**Schedule:** every evening at **22:00** Europe/Paris (CEST/CET — matching phone commit timezone), and whenever asked to “Sync now”.
 
-1. Inspect changes under `Holiday Notes/` **and** `Diary/` since the last sync (git history, or compare against what is already quoted in `Songs/`).
-2. Extract new observational fragments (images that stick, energy flows, encounters, thresholds, transitions, diary surprises / unresolved threads / refusing images).
-3. Append them to the appropriate song file(s) under a dated heading:
+When the scheduled automation or a manual sync runs:
+
+1. Pull / inspect the latest `main`.
+2. Inspect changes under `Holiday Notes/` **and** `Diary/` since the last sync (git history, or compare against what is already quoted in `Songs/`).
+3. Extract new observational fragments (images that stick, energy flows, encounters, thresholds, transitions, diary surprises / unresolved threads / refusing images).
+4. Append them to the appropriate song file(s) under a dated heading:
 
    ```markdown
    ## From Holiday Notes — YYYY-MM-DD
@@ -36,5 +39,18 @@ At the end of each day (or whenever asked to sync):
 
    Use the diary entry’s own date for `From Diary` headings. Use the sync date for `From Holiday Notes` headings (append to the same day’s section if one already exists).
 
-4. Skip material already present in the song files. Skip pure process instructions unless they themselves become lyric material.
-5. Commit with a message that names the date and which songs were updated.
+5. Skip material already present in the song files. Skip pure process instructions unless they themselves become lyric material.
+6. If there is nothing new, make no file changes (or open no PR).
+7. Otherwise commit, push a `cursor/…-2e32` branch, and open/update a PR into `main` with a message that names the date and which songs were updated.
+
+### Cursor Automation setup (for the owner)
+
+Create at [cursor.com/automations](https://cursor.com/automations):
+
+- **Trigger:** Scheduled — daily at 22:00 (Europe/Paris), or cron `0 20 * * *` UTC while on CEST / `0 21 * * *` UTC on CET
+- **Repository:** `Katalytikos/Holiday-Songwriting`, branch `main`
+- **Prompt:**
+
+  ```
+  Follow AGENTS.md. Sync now: inspect Holiday Notes/ and Diary/ for changes since the last sync, append new observations to the matching Songs/ files, commit, push, and open a PR into main. If nothing new, do not open a PR.
+  ```
