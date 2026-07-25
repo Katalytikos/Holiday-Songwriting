@@ -45,3 +45,13 @@ Evening - night liminality
 - Sharing mountain tales into the evening — Skye, Anach Eagagh, Tryfan, the lakes
 - Memorabilia from times shared 40 years ago — old acquaintance becoming new friend
 - Loosen the grip; enter the flow
+
+## From Holiday Notes — 2026-07-24
+
+### Transitions
+- Woken with the tune to “I Don’t Live Here Anymore” by The War on Drugs in my head
+- “We danced to Desolation Row” — a reference to a reference
+- Not-belonging / temporary dwelling as liminal lyric seed
+
+### Encounters
+- Climbing memories from Cotswolds and Wye Valley returning — gritstone gods and slate-punks of the 80s
