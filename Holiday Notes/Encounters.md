@@ -40,3 +40,9 @@ Head hands hips and feet
 Are compelled to move with the beat
 Rhythms ring from African drums
 In the warm air the city hums
+
+Sun and drawing and meeting:
+Shine combine
+Line combine
+
+Smoke drifts east, fires that burn at a distance choke across the land. We seek protection inside the warm stone walls, eating chicken and drinking wine.
