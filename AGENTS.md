@@ -40,8 +40,9 @@ When the scheduled automation or a manual sync runs:
    Use the diary entry’s own date for `From Diary` headings. Use the sync date for `From Holiday Notes` headings (append to the same day’s section if one already exists).
 
 5. Skip material already present in the song files. Skip pure process instructions unless they themselves become lyric material.
-6. If there is nothing new, make no file changes (or open no PR).
+6. If there is nothing new, make no file changes (open no PR).
 7. Otherwise commit, push a `cursor/…-2e32` branch, and open/update a PR into `main` with a message that names the date and which songs were updated.
+8. **Merge the PR into `main` before finishing** (mark ready if draft, then merge and delete the branch). Do this every sync — do not leave the PR open.
 
 ### Cursor Automation setup (for the owner)
 
@@ -52,5 +53,5 @@ Create at [cursor.com/automations](https://cursor.com/automations):
 - **Prompt:**
 
   ```
-  Follow AGENTS.md. Sync now: inspect Holiday Notes/ and Diary/ for changes since the last sync, append new observations to the matching Songs/ files, commit, push, and open a PR into main. If nothing new, do not open a PR.
+  Follow AGENTS.md. Sync now: inspect Holiday Notes/ and Diary/ for changes since the last sync, append new observations to the matching Songs/ files, commit, push, open a PR into main, and merge that PR. If nothing new, do not open a PR.
   ```
