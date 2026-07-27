@@ -70,3 +70,16 @@ Early morning - metabolism / emergence
 - The chalkboard records the coming and going of ideas as the house catalyses words, images & ideas
 
 ![[IMG_4580.jpeg]]
+
+## From Diary — 2026-07-25
+
+- The sweetness of peaches
+- Words appearing in the form of poetry
+- My injured hamstring fighting back against the entropic tide of time
+
+## From Holiday Notes — 2026-07-27
+
+### Emergence
+
+- Sun and drawing and meeting: Shine combine
+- Line combine
