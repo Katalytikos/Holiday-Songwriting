@@ -83,3 +83,8 @@ Early morning - metabolism / emergence
 
 - Sun and drawing and meeting: Shine combine
 - Line combine
+
+### Transitions
+- Travellers wait with plates of food; wine from heated vines
+- A day breaks; they wake to news of building warmth
+- Walk the slopes to city walls; eat amidst the gradual rising heat
