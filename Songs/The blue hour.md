@@ -61,3 +61,10 @@ Evening - night liminality
 - Tomorrow’s plans
 - Otis - creating poetry in simple words
 - The living walls, soaked in history, observers of the living processes of the house — the houses eyes.
+
+## From Holiday Notes — 2026-07-27
+
+### Transitions
+- The rain falls across the walls where memories hide
+- The travellers subside in sleep
+- Heat subsides; showers and clouds cool the day into night’s waiting

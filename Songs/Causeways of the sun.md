@@ -67,3 +67,8 @@ Midday - evening - energy
 
 - Energy builds in the heat — lightning explodes across the smoke drenched city. Sparks to the west lighting great fires where the land meets the sea. Warm breezes fan the flames and drive the smoke over fields and towns to the hilled town with its basilica and bells. We await further news
 - Smoke drifts east; fires that burn at a distance choke across the land. We seek protection inside the warm stone walls, eating chicken and drinking wine.
+
+### Transitions
+- From the pool the heat subsides; showers come, the clouds they cool
+- Sun returns to heat the waters; feet descend as sun burns full
+- Wine from heated vines; eat amidst the gradual rising heat

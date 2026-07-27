@@ -124,3 +124,10 @@ What becomes possible because these two things meet?
 - Head hands hips and feet are compelled to move with the beat
 - Rhythms ring from African drums
 - In the warm air the city hums
+
+### Transitions
+- The pool retreats and sets itself aside — hides to wait once more for sun to heat its waters
+- The pool awaits; into its cool they plunge
+- Skin calmed, unharmed, they swim
+- Into the place of timeless space / spaceless time
+- Into its waters calm they drift
