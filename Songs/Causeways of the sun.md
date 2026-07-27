@@ -56,3 +56,14 @@ Midday - evening - energy
 
 ### The pool
 - The sun reflecting on / through water; ripples
+
+## From Diary — 2026-07-25
+
+- The colour of the afternoon sky as the sun shone through the smoky air
+
+## From Holiday Notes — 2026-07-27
+
+### Energy
+
+- Energy builds in the heat — lightning explodes across the smoke drenched city. Sparks to the west lighting great fires where the land meets the sea. Warm breezes fan the flames and drive the smoke over fields and towns to the hilled town with its basilica and bells. We await further news
+- Smoke drifts east; fires that burn at a distance choke across the land. We seek protection inside the warm stone walls, eating chicken and drinking wine.

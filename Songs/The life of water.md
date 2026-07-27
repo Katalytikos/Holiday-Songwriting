@@ -102,3 +102,25 @@ What becomes possible because these two things meet?
 - Days of climbing in the Cotswolds and Wye Valley — inspired by the gritstone gods and slate-punks of the 80s; memories brought back
 
 ![[IMG_4579.jpeg]]
+
+## From Holiday Notes — 2026-07-27
+
+### Metabolism
+
+- The sea eats the rock depositing the ground sand in the beach
+- Sand sticking to the feet
+- Oysters — ambrosia of the sea
+
+![[IMG_4589.jpeg]]
+![[IMG_4600.jpeg]]
+
+### The pool
+
+- A swim at night amidst forks of lightning energy and the advancing smoke clouds out west
+- We submerge ourselves in the dark water.
+
+### Encounters
+
+- Head hands hips and feet are compelled to move with the beat
+- Rhythms ring from African drums
+- In the warm air the city hums

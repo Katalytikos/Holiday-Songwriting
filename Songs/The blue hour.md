@@ -55,3 +55,9 @@ Evening - night liminality
 
 ### Encounters
 - Climbing memories from Cotswolds and Wye Valley returning — gritstone gods and slate-punks of the 80s
+
+## From Diary — 2026-07-25
+
+- Tomorrow’s plans
+- Otis - creating poetry in simple words
+- The living walls, soaked in history, observers of the living processes of the house — the houses eyes.
