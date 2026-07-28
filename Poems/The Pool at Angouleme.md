@@ -13,7 +13,7 @@ From the pool the heat subsides
 The showers come the clouds they cool
 The pool retreats and sets itself aside
 And hides to wait once more for sun
-To come and heat its waters
+To come and heat its waters.
 
 The travellers wait
 With plates of food they dine
@@ -21,7 +21,7 @@ And wine they drink
 From heated vines
 The rain it falls 
 Across the walls where memories hide
-The travellers subside in sleep
+The travellers subside in sleep.
 
 A day breaks
 They wake to news of building warmth
@@ -30,14 +30,14 @@ Inside of which the travellers eat
 Amidst the gradual rising heat
 Their feet descend as sun burns full
 The pool awaits
-into its cool they plunge
+into its cool they plunge.
 
 Their skin calmed unharmed they swim
 Into the place of timeless space
 Into the place of spaceless time
-Into its waters calm they drift
-### Part II
+Into its waters calm they drift.
+### Part III
 Day ends - darkness descends 
 the blue hour holds - the warmth enfolds. 
 Silhouettes shape - night awakes 
-the blue hour holds - memories unfold
+the blue hour holds - memories unfold.
